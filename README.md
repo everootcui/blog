@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there's my blog👋
 
 <!--
 **everootcui/everootcui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Go语言
+[Github README 使用笔记](https://github.com/everootcui/blog/blob/main/Go/t1)
